@@ -1,10 +1,10 @@
 <?php 
 
-$host = '';
-$db   = '';
-$user = '';
+$host = 'localhost';
+$db   = 'blogdb_p5_2';
+$user = 'root';
 $psw  = '';
-$port = '';
+$port = '3306';
 $dsn  = "mysql://hoost=$host;dbname=$db;port=$port;charset=utf8";
 $options = [
     \PDO::ATTR_ERRMODE => \PDO::ERRMODE_EXCEPTION,
