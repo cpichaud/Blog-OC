@@ -2,12 +2,12 @@
 
 namespace App\Controllers\HomepageController;
 
-require_once('src/config/DatabaseConnection.php');
+require_once 'src/config/DatabaseConnection.php';
 
 class HomepageController
 {
     public function execute()
     {
-        require('views/home.html.twig');
+        require 'views/home.html.twig';
     }
 }

@@ -1,4 +1,4 @@
-<?php require('navbar.php') ?>
+<?php require 'navbar.php' ?>
 
 <main>
     <section class="presentation">
@@ -26,4 +26,4 @@
     </section>
 </main>
 
-<?php require('footer.php') ?>
+<?php require 'footer.php' ?>
