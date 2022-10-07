@@ -1,0 +1,17 @@
+*{
+    text-decoration: none;
+}
+
+.presentation{
+    background-image: url(../image/presentation.jpg);
+    text-align: center;
+}
+
+/* FOOTER */
+
+footer {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+}
